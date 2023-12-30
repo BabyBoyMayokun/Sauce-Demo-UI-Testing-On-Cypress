@@ -1,0 +1,5 @@
+{
+    "userName":["standard_user","locked_out_user","problem_user","performance_glitch_user","error_user","visual_user"],
+    "passWord":"secret_sauce",
+    "productName":["Sauce Labs Backpack","Sauce Labs Bike Light","Sauce Labs Bolt T-Shirt","Sauce Labs Fleece Jacket","Sauce Labs Onesie","Test.allTheThings() T-Shirt (Red)"]
+} 
